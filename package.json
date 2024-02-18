@@ -3,7 +3,7 @@
   "displayName": "Plurple",
   "description": "Personal VSCode theme",
   "publisher": "haretian",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT" ,
   "icon": "coffee.png",
   "repository": {
@@ -19,14 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Plurple Matte",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Plurple-Matte-color-theme.json"
-      },
-      {
         "label": "Plurple",
         "uiTheme": "vs-dark",
         "path": "./themes/Plurple-color-theme.json"
+      },
+      {
+        "label": "Plurple Matte",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Plurple-Matte-color-theme.json"
       }
     ]
   }
