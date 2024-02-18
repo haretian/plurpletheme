@@ -2,10 +2,10 @@
 
 A personal VSCode theme :)
 
-Normal:
+**Normal:**
 ![preview](https://raw.githubusercontent.com/haretian/plurpletheme/master/sample.jpg)
 
-Matte:
+**Matte:**
 ![preview](https://raw.githubusercontent.com/haretian/plurpletheme/master/samplematte.jpg)
 
 Made for python, will update for others if needed...
