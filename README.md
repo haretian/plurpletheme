@@ -1,5 +1,3 @@
-# plurple README
-
 # Plurple
 
 A personal VSCode theme :)
