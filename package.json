@@ -5,7 +5,7 @@
   "publisher": "haretian",
   "version": "0.0.1",
   "license": "MIT" ,
-  "icon": "https://github.com/haretian/plurpletheme/blob/master/coffee.png",
+  "icon": "coffee.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/haretian/plurpletheme"
