@@ -3,8 +3,8 @@
   "displayName": "Plurple",
   "description": "Personal VSCode theme",
   "publisher": "haretian",
-  "version": "1.0.5",
-  "license": "MIT" ,
+  "version": "1.0.7",
+  "license": "MIT",
   "icon": "coffee.png",
   "repository": {
     "type": "git",

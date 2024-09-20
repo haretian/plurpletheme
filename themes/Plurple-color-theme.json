@@ -976,7 +976,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#CB81B9"
 			}
 		},
 		{
@@ -1099,10 +1099,12 @@
 			"scope": [
 				"storage.modifier.import.java",
 				"variable.language.wildcard.java",
-				"storage.modifier.package.java"
+				"storage.modifier.package.java",
+				"meta.package.java",
+				"storage.modifier.java"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#D9A7B3"
 			}
 		},
 		{
@@ -1312,7 +1314,10 @@
 			}
 		},
 		{
-			"scope": "constant.language",
+			"scope": [
+				"constant.language",
+				"constant.language.c"
+			],
 			"settings": {
 				"foreground": "#CB81B9"
 			}
@@ -1426,15 +1431,6 @@
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
 				"foreground": "#D8BFFF"
-			}
-		},
-		{
-			"scope": [
-				"storage.modifier",
-				"keyword.operator.noexcept"
-			],
-			"settings": {
-				"foreground": "#D69456"
 			}
 		},
 		{
@@ -1561,16 +1557,6 @@
 			}
 		},
 		{
-			"scope": [
-				"storage.modifier.import.java",
-				"variable.language.wildcard.java",
-				"storage.modifier.package.java"
-			],
-			"settings": {
-				"foreground": "#D4D4D4"
-			}
-		},
-		{
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#E5D4C1"
@@ -1626,19 +1612,6 @@
 			],
 			"settings": {
 				"foreground": "#A9DCD1"
-			}
-		},
-		{
-			"scope": [
-				"meta.type.cast.expr",
-				"meta.type.new.expr",
-				"support.constant.math",
-				"support.constant.dom",
-				"support.constant.json",
-				"entity.other.inherited-class"
-			],
-			"settings": {
-				"foreground": "#4EC9B0"
 			}
 		},
 		{

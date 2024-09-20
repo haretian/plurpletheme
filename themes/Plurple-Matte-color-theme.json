@@ -970,15 +970,6 @@
 		},
 		{
 			"scope": [
-				"storage.modifier",
-				"keyword.operator.noexcept"
-			],
-			"settings": {
-				"foreground": "#A9DCD1"
-			}
-		},
-		{
-			"scope": [
 				"string",
 				"meta.embedded.assembly"
 			],
@@ -1306,7 +1297,10 @@
 			}
 		},
 		{
-			"scope": "constant.language",
+			"scope": [
+				"constant.language",
+				"constant.language.c"
+			],
 			"settings": {
 				"foreground": "#C368AC"
 			}
@@ -1440,7 +1434,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#D69456"
+				"foreground": "#C368AC"
 			}
 		},
 		{
@@ -1622,19 +1616,6 @@
 			],
 			"settings": {
 				"foreground": "#99cfc4"
-			}
-		},
-		{
-			"scope": [
-				"meta.type.cast.expr",
-				"meta.type.new.expr",
-				"support.constant.math",
-				"support.constant.dom",
-				"support.constant.json",
-				"entity.other.inherited-class"
-			],
-			"settings": {
-				"foreground": "#4EC9B0"
 			}
 		},
 		{
